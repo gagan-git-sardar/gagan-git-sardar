@@ -1,7 +1,7 @@
 ## ![Hello](Hello.gif) <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px"> [Gagandeep Singh Pahuja ](https://GagandeepSinghPahuja.me/)
 ![brightgreen](https://komarev.com/ghpvc/?username=gagan-git-sardar)
 
-<img src="https://github.com/gagan-git-sardar/gagan-git-sardar/blob/main/code.svg" width="320" align='right'>
+<img src="https://github.com/gagan-git-sardar/gagan-git-sardar/blob/main/WhatsApp%20Video%202021-05-01%20at%2012.37.12%20PM.mp4" width="320" align='right'>
 
 
 
