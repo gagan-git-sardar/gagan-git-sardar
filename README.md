@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on Full Stack Web Development Projects
 - 💬 Ask me about Programming, Tech, Music, Travelling, Photography, Game DEvelopment.
 ### Connect with me: <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
-[![Linkedin Badge](https://img.shields.io/badge/-gagandeep-singh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gagandeep-singh-3210ba158/)](https://www.linkedin.com/in/gagandeep-singh/)
+[![Linkedin Badge](https://img.shields.io/badge/-gagandeep-singh-3210ba158-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gagandeep-singh-3210ba158/)](https://www.linkedin.com/in/gagandeep-singh/)
 [![Twitter Badge](https://img.shields.io/badge/-@Gagan876-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Gagan876)](https://twitter.com/Gagan876)
 [![Gmail Badge](https://img.shields.io/badge/-gagandeepsingh9575@gmail.com-db4437?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gagandeepsingh9575@gmail.com)](mailto:gagandeepsingh9575@gmail.com)   <a href="https://www.instagram.com/gagan._sardar_ji"><img alt="@gagan._sardar_ji | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" />
 </a> 
