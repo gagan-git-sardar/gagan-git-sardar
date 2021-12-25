@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Competitive Programming
-- 👯 I’m looking to collaborate on Full Stack Software Development Projects
+- 🔭 I’m currently working on Predictive Analysis
+- 🌱 I’m currently learning Data Science
+- 👯 I’m looking to collaborate on Machine Learning Projects
 - 💬 Ask me about Programming, Tech, Music, Travelling, Photography, Game DEvelopment.
 ### Connect with me: <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" />
 [![Linkedin Badge](https://img.shields.io/badge/-gagandeep-singh-pahuja-3210ba158-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gagandeep-singh-pahuja-3210ba158/)](https://www.linkedin.com/in/gagandeep-singh-pahuja-3210ba158/)
