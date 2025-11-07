@@ -1,63 +1,51 @@
-### Hi there 👋
+👋 Hey there, I’m Gagandeep Singh Pahuja
 
+🎓 MSc Management of Technology candidate at New York University (London)
+💼 Former Software Engineer at TCS | Junior Project Manager at Foxbiz
+📍 Based in London, UK
 
+🚀 About Me
 
-I am [Gagandeep](https://www.linkedin.com/in/gagandeep-singh-pahuja-3210ba158/), a DevOps Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; passionate about developing production-ready applications with 2+ years of professional working experience. 🎯
+I’m a tech-driven project manager and engineer passionate about bridging the gap between business strategy and technical execution. With 3+ years of experience across software engineering, DevOps, and product leadership, I thrive in roles that combine technology, people, and problem-solving.
 
-I mostly work with Terraform, Docker and Kubernetes technologies. 🚀
+My journey has taken me from writing code and deploying cloud infrastructure to managing cross-functional teams and building real products — from enterprise solutions to grassroots startups.
 
+🧩 Experience Snapshot
 
-<p float="left">
-  <a href="https://python.org/" target="_blank" >
-    <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif"  height="90" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
-  </a>
-  
-  <a href="https://www.djangoproject.com/" target="_blank" >
-    <img src="https://www.edgica.com/wp-content/files/django-logo-big.jpg"  height="80" /> 
-  </a>
-  
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
-  </a>
-  
- </p>
-  
-### DevOps
-  
- <p float="left">
-  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
-  </a> 
-  <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
-  </a>
- </p>
-  
-### Databases and Monitoring
-  
-  <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
-  </a>
-  <a href="https://www.influxdata.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/influxdata.gif" height="60" />
-  </a>
-    <a href="https://www.postgresql.org" target="_blank" >
-    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" height="60" />
-  </a>
-  </a>
-    <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://www.logolynx.com/images/logolynx/cf/cf72126a3551b816d617a06ffb01388b.png" height="60" />
-  </a>
-  
-</p>
+Junior Project Manager — Foxbiz Software Pvt. Ltd. (2025)
+Defined and managed features for a modular SME platform; improved workflows through user testing and team collaboration.
 
+Software Engineer — Tata Consultancy Services (2022–2025)
+Designed and automated AWS/GCP infrastructure and CI/CD pipelines, enhancing system reliability and reducing downtime.
 
-### 📫 How to reach me?
+Founder — UG Solutions (2019–2021)
+Built a student–startup collaboration platform, validated with 100+ user interviews and early partnerships.
 
+AI/ML Intern — 4Mirrortech Innovatives (2021)
+Optimized TensorFlow and OpenCV models for real-time image recognition and processing.
 
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/gagandeep-singh-pahuja-3210ba158/) 👨🏻‍💻
- 
- - Shoot Me an [Email](mailto:gdspahuja@gmail.com) 💌
+💡 Core Skills
+
+Project Management: Agile · Scrum · Risk Analysis · Stakeholder Communication · UX Collaboration
+Technical: AWS · GCP · Python · C# · TensorFlow · OpenCV · Git · Version Control
+Bonus: Game Development (Unreal Engine · Unity · Blueprint Scripting)
+
+🎯 What I’m Focused On
+
+Leading cross-functional technology projects from concept to deployment
+
+Combining engineering expertise with strategic management
+
+Exploring AI + cloud solutions that enable smarter business systems
+
+🌐 Connect With Me
+
+💼 LinkedIn
+
+🌍 Portfolio Website
+
+📧 Email Me
+
+💻 GitHub
+
+⭐ "Where strategy meets execution — building tech that makes ideas real."
